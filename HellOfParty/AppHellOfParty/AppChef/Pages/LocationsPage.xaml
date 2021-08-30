@@ -1,0 +1,54 @@
+﻿<Page x:Class="AppChef.Pages.LocationsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AppChef.Pages"
+      mc:Ignorable="d" 
+      
+      d:DesignHeight="900" d:DesignWidth="1200"
+      Title="LocationsPage">
+
+    <Grid Height="949" Background="#FFE6D5FC">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="213*"/>
+            <ColumnDefinition Width="187*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBoxOras" HorizontalAlignment="Left" Height="46
+                 " Margin="405,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" FontSize="36" RenderTransformOrigin="0.486,1.867" Grid.ColumnSpan="2" BorderBrush="#FF502166"/>
+        <Label Content="City" HorizontalAlignment="Left" Margin="405,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="5.353,2.231" Height="52" Width="234" FontSize="24" FontFamily="Century Gothic" FontWeight="Bold"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="405,206,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.765,0.385" FontSize="24" Width="234" FontFamily="Century Gothic" FontWeight="Bold" Height="52"/>
+        <Label Content="Location" HorizontalAlignment="Left" Margin="406,321,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.767,3.982" FontSize="24" Height="55" Width="271" FontFamily="Century Gothic" FontWeight="Bold" Grid.ColumnSpan="2">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.598"/>
+                    <TranslateTransform X="0.938" Y="-1.52"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Number of seats" HorizontalAlignment="Left" Margin="405,448,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.767,3.982" FontSize="24" Grid.ColumnSpan="2" Height="81" Width="296" FontFamily="Century Gothic" FontWeight="Bold">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.598"/>
+                    <TranslateTransform X="0.938" Y="-1.52"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBoxNume" HorizontalAlignment="Left" Height="46
+                 " Margin="405,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" RenderTransformOrigin="1.7,2.957" FontSize="36" Grid.ColumnSpan="2" BorderBrush="#FF502166" TextChanged="TextBoxNume_TextChanged"/>
+        <TextBox x:Name="textBoxLocatie" HorizontalAlignment="Left" Height="46" Margin="405,382,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" FontSize="36" Grid.ColumnSpan="2" BorderBrush="#FF502166"/>
+        <TextBox x:Name="textBoxNumarLocuri" HorizontalAlignment="Left" Height="46" Margin="405,519,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="320" RenderTransformOrigin="2.2,7.848" FontSize="36" Grid.ColumnSpan="2" BorderBrush="#FF502166"/>
+        <ListBox x:Name="listBoxOrase" HorizontalAlignment="Left" Height="182" Margin="71,122,0,0" VerticalAlignment="Top" Width="187" SelectionChanged="listBoxOrase_SelectionChanged" Background="#FFE6D5FC" BorderBrush="#FF502166" Foreground="#FF502166" FontFamily="Century Gothic" FontSize="16" FontWeight="Bold"/>
+        <ListBox x:Name="listBoxParties" HorizontalAlignment="Left" Height="169" Margin="71,400,0,0" VerticalAlignment="Top" Width="187" SelectionChanged="listBoxParties_SelectionChanged" Background="#FFE6D5FC" BorderBrush="#FF502166" FontFamily="Century Gothic" FontSize="16" FontWeight="Bold" Foreground="#FF502166"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="262.8,141,0,0" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.253,8.925" FontSize="24" Height="65" Click="Button_Click" Grid.Column="1" Background="#FF502166" FontFamily="Century Gothic" FontWeight="Bold" Foreground="White" BorderBrush="#FFFFFDFD"/>
+        <Button Content="Modify" HorizontalAlignment="Left" Margin="262.8,319,0,0" VerticalAlignment="Top" Width="98" FontSize="24" Height="65" Click="Button_Click_1" Grid.Column="1" RenderTransformOrigin="0.521,0.193" Background="#FF502166" FontFamily="Century Gothic" FontWeight="Bold" Foreground="White" BorderBrush="White"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="262.8,495,0,0" VerticalAlignment="Top" Width="98" Height="70" FontSize="24" Click="Button_Click_2" RenderTransformOrigin="0.525,-0.35" Grid.Column="1" Background="#FF502166" Foreground="White" FontFamily="Century Gothic" FontWeight="Bold" BorderBrush="White"/>
+        <TextBox x:Name="textBox_copiat" HorizontalAlignment="Left" Height="23" Margin="169,722,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Add to favorite" Height="49" Margin="405,652,475,0" VerticalAlignment="Top" FontSize="36" Click="Button_Click_3" RenderTransformOrigin="8.088,10.065" Grid.ColumnSpan="2" BorderBrush="Black" Foreground="Black" Background="#FFF48282" FontFamily="Century Gothic" FontWeight="Bold"/>
+        <Label Content="Select a city to see your favorite events:" HorizontalAlignment="Left" Margin="31,75,0,0" VerticalAlignment="Top" Height="35" Width="327" Foreground="#FF502166" FontFamily="Century Gothic" FontSize="16" FontWeight="Bold"/>
+    </Grid>
+</Page>

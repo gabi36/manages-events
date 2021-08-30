@@ -1,0 +1,27 @@
+﻿<Window x:Class="AppChef.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppChef"
+        mc:Ignorable="d"
+        Title="Register" Height="500" Width="700" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Background="#FFE6D5FC">
+        <Label Content="Username" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,139,0,0" Width="106" FontFamily="Century Gothic" FontWeight="Bold" FontSize="14" Height="26"/>
+        <Button Content="Register" HorizontalAlignment="Left" VerticalAlignment="Top" Width="121" Margin="362,444,0,0" RenderTransformOrigin="0.467,-0.35" Click="Button_Click" Height="28" Background="#FF502166" FontFamily="Century Gothic" FontWeight="Bold" FontSize="14" BorderBrush="#FF502166" Foreground="White"/>
+        <Label Content="Email&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,220,0,0" RenderTransformOrigin="0.5,3.308" Width="92" FontFamily="Century Gothic" FontWeight="Bold" FontSize="14" Height="26"/>
+        <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,287,0,0" Width="104" FontSize="14" FontFamily="Century Gothic" FontWeight="Bold" RenderTransformOrigin="0.16,0.441"/>
+        <Label Content="Password Confirmation" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="316,362,0,0" Width="167" FontFamily="Century Gothic" FontWeight="Bold" FontSize="14" Height="33" RenderTransformOrigin="0.478,-0.104"/>
+        <TextBox x:Name="emailTextBox" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Margin="324,247,0,0"/>
+        <Label Content="Register" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="324,80,0,0" Width="92" FontFamily="Century Gothic" FontWeight="Bold" FontSize="20" Height="41"/>
+        <TextBox x:Name="usernameTextBox" HorizontalAlignment="Left" Height="25 " TextWrapping="Wrap" VerticalAlignment="Top" Width="204" Margin="324,177,0,0" RenderTransformOrigin="-0.524,0.313"/>
+        <PasswordBox x:Name="passwordTextBox" HorizontalAlignment="Left" Margin="324,319,0,0" VerticalAlignment="Top" Width="204" Height="25" RenderTransformOrigin="0.487,-0.268"/>
+        <PasswordBox x:Name="passwordConfirmationTextBox" HorizontalAlignment="Left" Margin="324,395,0,0" VerticalAlignment="Top" Width="204" Height="25"/>
+        <Button Content="Back" HorizontalAlignment="Left" Height="20" Margin="0,10,0,0" VerticalAlignment="Top" Width="262" Click="Button_Click_1" BorderBrush="#FF502166" Foreground="Black" Background="#FFE6D5FC" FontFamily="Century Gothic" FontWeight="Bold" FontSize="14"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="0,49,0,0" VerticalAlignment="Top" Width="262" Click="Button_Click_2" FontFamily="Century Gothic" FontWeight="Bold" FontSize="16" Background="#FFE6D5FC" BorderBrush="#FF502166"/>
+        <DockPanel HorizontalAlignment="Left" Height="426" LastChildFill="False" Margin="0,68,0,-0.4" VerticalAlignment="Top" Width="262" Background="#FF502166"/>
+        <Image Source="D:\automatica\AN III\Sem2\II\Proiect\Proiect\RegisterIcon.png" HorizontalAlignment="Center" Height="41" Margin="212,80,297.6,0" VerticalAlignment="Top" Width="184" RenderTransformOrigin="0.486,0.475"/>
+        <Label Content=" " HorizontalAlignment="Left" Height="19" Margin="0,30,0,0" VerticalAlignment="Top" Width="262" Background="#FF502166"/>
+        <Label Content=" " HorizontalAlignment="Left" Height="10" VerticalAlignment="Top" Width="262" Background="#FF502166"/>
+    </Grid>
+</Window>

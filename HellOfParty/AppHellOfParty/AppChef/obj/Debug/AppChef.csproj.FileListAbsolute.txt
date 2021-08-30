@@ -1,0 +1,162 @@
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe.config
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\bin\Debug\AppChef.pdb
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.csprojAssemblyReference.cache
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\MainWindow.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\App.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.cache
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.lref
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\MainWindow.baml
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.g.resources
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.Properties.Resources.resources
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.GenerateResource.cache
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.CoreCompileInputs.cache
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.exe
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\AppChef.pdb
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Register.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Register.baml
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Interfata.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Interfata.baml
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.baml
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.baml
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.baml
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.g.cs
+D:\Scoala\Anul 3\Sem 2\II\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe.config
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\bin\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.csprojAssemblyReference.cache
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Interfata.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\MainWindow.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Register.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\App.g.cs
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.cache
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.lref
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Interfata.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\MainWindow.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\Register.baml
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.g.resources
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.Properties.Resources.resources
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.GenerateResource.cache
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.CoreCompileInputs.cache
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\Proiectv2\Proiect\AppChef\AppChef\obj\Debug\AppChef.pdb
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe.config
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\bin\Debug\AppChef.pdb
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.csprojAssemblyReference.cache
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Interfata.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\MainWindow.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Register.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\App.g.cs
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.cache
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.lref
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Interfata.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\MainWindow.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\Register.baml
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.g.resources
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.Properties.Resources.resources
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.GenerateResource.cache
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.CoreCompileInputs.cache
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.exe
+D:\automatica\AN III\Sem2\II\Proiect\Proiect\AppChef\AppChef\obj\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe.config
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\bin\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\bin\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.csprojAssemblyReference.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Interfata.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\MainWindow.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Register.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\App.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef_MarkupCompile.lref
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Interfata.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\MainWindow.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\AccountDetails.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\HomePage.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\LocationsPage.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Pages\PartiesPage.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\Register.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.g.resources
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.Properties.Resources.resources
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.GenerateResource.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.csproj.CoreCompileInputs.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppChef\AppChef\obj\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\bin\Debug\AppChef.exe.config
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\bin\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\bin\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.csprojAssemblyReference.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Interfata.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\MainWindow.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\AccountDetails.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\HomePage.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\LocationsPage.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\PartiesPage.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Register.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\App.g.cs
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef_MarkupCompile.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef_MarkupCompile.lref
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Interfata.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\MainWindow.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\AccountDetails.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\HomePage.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\LocationsPage.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Pages\PartiesPage.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\Register.baml
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.g.resources
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.Properties.Resources.resources
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.csproj.GenerateResource.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.csproj.CoreCompileInputs.cache
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\ProiectV3\Proiect\AppHellOfParty\AppChef\obj\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\bin\Debug\AppChef.exe.config
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\bin\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\bin\Debug\AppChef.pdb
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.csprojAssemblyReference.cache
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Interfata.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\MainWindow.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\AccountDetails.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\HomePage.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\LocationsPage.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\PartiesPage.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Register.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\App.g.cs
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef_MarkupCompile.cache
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef_MarkupCompile.lref
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Interfata.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\MainWindow.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\AccountDetails.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\HomePage.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\LocationsPage.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Pages\PartiesPage.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\Register.baml
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.g.resources
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.Properties.Resources.resources
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.csproj.GenerateResource.cache
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.csproj.CoreCompileInputs.cache
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.exe
+E:\faculta\an3sem2\II\Proiect\proiectGit\manages-events\HellOfParty\AppHellOfParty\AppChef\obj\Debug\AppChef.pdb
