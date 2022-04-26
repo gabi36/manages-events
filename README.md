@@ -1,1 +1,1 @@
-# manages-events
+# events
